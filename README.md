@@ -19,3 +19,4 @@ Overall, this program serves as a practical example of file handling in C. It de
 
 
 #OUTPUT: 
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/1f4acf56-4c8e-4dc9-ae27-98f258a30f48" />
